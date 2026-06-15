@@ -296,23 +296,3 @@ This project demonstrates knowledge of:
 ---
 
 
-### Dashboard
-
-```text
-images/dashboard.png
-```
-
-### Vehicle Tracking Map
-
-```text
-images/map.png
-```
-
-### Alert Monitoring
-
-```text
-images/alerts.png
-```
-
----
-
