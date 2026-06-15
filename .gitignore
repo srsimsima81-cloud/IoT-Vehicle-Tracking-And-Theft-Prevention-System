@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# Streamlit Cache
+.streamlit/secrets.toml
+
+# Python Environment Files
+.python-version
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Generated Reports (Optional)
+reports/*.pdf
+
+# Generated Data (Optional)
+outputs/*.html
+
+# Keep sample data only
+data/*.csv
+
+
+
+# Environment Variables
+.env
+
+# Pytest
+.pytest_cache/
+
+# Coverage Reports
+.coverage
+htmlcov/
+
+# MyPy
+.mypy_cache/
+
+# IDEs
+.idea/
+
+# Node (if added later)
+node_modules/
